@@ -1,0 +1,66 @@
+body{
+    background: rgb(164, 197, 214);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+input#verificar{
+    border-radius: 8px;
+    background-color: rgb(116, 177, 111);
+    color: #fff;
+    border-color: black;
+}
+
+input#nome{
+    border-radius: 8px;
+    border-color: black;
+}
+
+input#nota1{
+    border-radius: 8px;
+    border-color: black;
+
+}
+
+input#nota2{
+    border-radius: 8px;
+    border-color: black;
+
+}
+
+input#nota3{
+    border-radius: 8px;
+    border-color: black;
+
+}
+
+input#atitu{
+    border-radius: 8px;
+    border-color: black;
+
+}
+
+p2{
+    font-size: 12pt;
+}
+
+section{
+    background: #fff;
+    border-radius: 30px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 13px rgb(37, 36, 36);
+    
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+
+}
