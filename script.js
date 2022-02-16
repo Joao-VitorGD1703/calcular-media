@@ -23,9 +23,9 @@ function calcular(){
     }else{
         let m = n1 + n2 + n3 + atitu /3
         if(m >= 14){
-            res.innerHTML += `\n Parabéns ${nome} sua média: ${m.toFixed(1)} foi superior a 14 portanto está <strong>apovado!!!</strong>`
+            res.innerHTML += `\n Parabéns ${nome} sua média: ${m.toFixed(1)} foi superior a 14.0 portanto está <strong>apovado!!!</strong>`
         }else{
-            res.innerHTML += `\n${nome} sua média: ${m.toFixed(1)} foi abaixo de sete, você está <strong>reprovado!!!</strong>`
+            res.innerHTML += `\n${nome} sua média: ${m.toFixed(1)} foi abaixo de 14.0, você está <strong>reprovado!!!</strong>`
         }
 
     }
